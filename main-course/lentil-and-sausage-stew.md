@@ -2,17 +2,17 @@
 
 ## Ingredients:
 
-- 1 lb Italian sausage, sliced
-- 1 large onion, diced
-- 3 cloves garlic, minced
-- 2 large carrots, peeled and chopped
-- 2 stalks celery, chopped
-- 1 cup green or brown lentils, rinsed and drained
-- 1 can diced tomatoes
-- 4 cups chicken broth
-- 2 tsp dried thyme
-- 2 tsp dried rosemary
-- Salt and freshly ground black pepper to taste
+- [ ] 1 lb Italian sausage, sliced
+- [ ] 1 large onion, diced
+- [ ] 3 cloves garlic, minced
+- [ ] 2 large carrots, peeled and chopped
+- [ ] 2 stalks celery, chopped
+- [ ] 1 cup green or brown lentils, rinsed and drained
+- [ ] 1 can diced tomatoes
+- [ ] 4 cups chicken broth
+- [ ] 2 tsp dried thyme
+- [ ] 2 tsp dried rosemary
+- [ ] Salt and freshly ground black pepper to taste
 
 ## Instructions:
 
