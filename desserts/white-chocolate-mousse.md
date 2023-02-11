@@ -22,6 +22,9 @@
 10. Serve chilled, topped with fresh fruit or whipped cream, if desired.
 
 This white chocolate mousse is rich, creamy, and indulgent. The combination of melted white chocolate and whipped egg whites creates 
-a light and airy texture that is perfectly balanced by the sweetness of the white chocolate. 
+a light and airy texture that is perfectly balanced by the sweetness of the white chocolate.
+
+You can also balance the richness of the white chocolate mousse by serving it with fresh fruit, 
+such as berries, or with a [light and crisp cookie](/snacks/lemon-sables.md).
 
 Enjoy!
