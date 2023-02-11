@@ -1,6 +1,6 @@
-# Lentil and Sausage Stew:
+# Lentil and Sausage Stew
 
-## Ingredients:
+## Ingredients
 
 - [ ] 1 lb Italian sausage, sliced
 - [ ] 1 large onion, diced
@@ -14,7 +14,7 @@
 - [ ] 2 tsp dried rosemary
 - [ ] Salt and freshly ground black pepper to taste
 
-## Instructions:
+## Instructions
 
 1. In a large saucepan or Dutch oven, cook the sausage over medium heat until browned and crispy, about 10 minutes.
 2. Remove the sausage from the pan and set aside.

@@ -1,18 +1,18 @@
-# Limoncello Tiramisu:
+# Limoncello Tiramisu
 
-## Ingredients:
+## Ingredients
 
-- 6 egg yolks
-- 1/2 cup granulated sugar
-- 1 cup mascarpone cheese
-- 1 1/2 cups heavy cream
-- 1/2 cup Limoncello liqueur
-- 1/4 cup freshly squeezed lemon juice
-- 2 tablespoons grated lemon zest
-- 24-30 ladyfingers
-- Cocoa powder, for dusting
+- [ ] 6 egg yolks
+- [ ] 1/2 cup granulated sugar
+- [ ] 1 cup mascarpone cheese
+- [ ] 1 1/2 cups heavy cream
+- [ ] 1/2 cup Limoncello liqueur
+- [ ] 1/4 cup freshly squeezed lemon juice
+- [ ] 2 tablespoons grated lemon zest
+- [ ] 24-30 ladyfingers
+- [ ] Cocoa powder, for dusting
 
-## Instructions:
+## Instructions
 
 1. In a medium saucepan, whisk together the egg yolks and sugar until light and frothy.
 2. Over medium heat, add the mascarpone cheese and heavy cream to the egg mixture, stirring constantly, until the mixture thickens and coats the back of a spoon, about 5 minutes.

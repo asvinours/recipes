@@ -1,16 +1,16 @@
 # Lime Panna Cotta
 
-## Ingredients:
+## Ingredients
 
-- 2 1/4 teaspoons unflavored gelatin powder
-- 2 tablespoons cold water
-- 1 cup heavy cream
-- 1 cup whole milk
-- 1/2 cup granulated sugar
-- 1/4 cup freshly squeezed lime juice
-- 1 teaspoon grated lime zest
+- [ ] 2 1/4 teaspoons unflavored gelatin powder
+- [ ] 2 tablespoons cold water
+- [ ] 1 cup heavy cream
+- [ ] 1 cup whole milk
+- [ ] 1/2 cup granulated sugar
+- [ ] 1/4 cup freshly squeezed lime juice
+- [ ] 1 teaspoon grated lime zest
 
-## Instructions:
+## Instructions
 
 1. In a small bowl, sprinkle the gelatin powder over the cold water and let stand for 5 minutes.
 2. In a medium saucepan, heat the cream, milk, sugar, lime juice, and lime zest over medium heat, stirring constantly, until the sugar dissolves and the mixture begins to steam, about 5 minutes.

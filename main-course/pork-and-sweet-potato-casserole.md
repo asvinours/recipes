@@ -1,6 +1,6 @@
 # Pork and Sweet Potato Casserole
 
-## Ingredients:
+## Ingredients
 
 - [ ] 1 lb boneless pork shoulder, cut into 1-inch pieces
 - [ ] Salt and freshly ground black pepper to taste
@@ -14,7 +14,7 @@
 - [ ] 1 tsp dried sage
 - [ ] 2 tbsp whole grain mustard
 
-## Instructions:
+## Instructions
 
 1. Preheat the oven to 375°F.
 2. Season the pork with salt and pepper.
