@@ -14,7 +14,7 @@
 - [ ] 4 cuillères à thé de zestes de citrons râpé
 - [ ] 1 cuillère à thé de cannelle moulue
 
-Instructions
+## Instructions
 
 1. Au robot culinaire ou au mélangeur, moudre les flocons d'avoine en poudre, puis mettre la poudre d'avoine dans un grand bol. 
    Ajouter la farine, 1 tasse (250 ml) du sucre, la poudre à pâte et le sel et mélanger à l'aide d'un fouet. 
