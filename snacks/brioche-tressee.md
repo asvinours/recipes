@@ -32,7 +32,7 @@
 10. Retournez les boudins de façon à avoir la soudure en-dessous. Collez les 3 extrémités entre elles et formez une tresse. Ne la serrez pas trop car la brioche va bien gonfler.
 11. Faites de même avec la seconde moitié de pâte.
 12. Laissez pousser 1 heure, toujours au chaud.
-13. Au bout d'une heure, préchauffez le four à 180°C.
+13. Au bout d'une heure, préchauffez le four à 180°C (360°F).
 14. Mélangez ensemble un jaune d'oeuf et 2 cuillères à soupe de lait. Badigeonnez ce mélange sur les brioches tressées avec un pinceau alimentaire.
 15. Enfournez 10 minutes.
 16. Sortez les brioches du four et dorez de nouveau. Parsemez de quelques grains de sucre perlé. ré-enfournez 10 minutes.
